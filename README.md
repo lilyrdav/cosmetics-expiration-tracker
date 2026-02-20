@@ -10,6 +10,7 @@ Many cosmetics users own significantly more products than they can realistically
 * Using expired products
 * Wasted money from forgotten items
 * Cluttered collections with no visibility into expiration timelines
+
 Additionally, cosmetics products have different timelines once opened (e.g., mascara expires much faster than foundation and liquid/cream-based products expire faster than powder-based products), making manual tracking inconsistent and error-prone.
 
 ## Solution
@@ -19,6 +20,7 @@ This application provides:
 * Category-based expiration rules
 * Automatic expiration status calculation
 * Filtering by expiration state
+
 The core logic calculates expiration dynamically using:
 * Product category lifespan rules
 * Opened date (preferred)
@@ -58,4 +60,5 @@ This project demonstrates the design and implementation of a real-world backend 
 * Time-based business logic
 * RESTful API design
 * Practical product thinking
+
 The goal is to build a clean, scalable backend service that mirrors the kind of internal tooling or consumer platform systems used in production environments.
