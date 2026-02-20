@@ -34,7 +34,7 @@ The core logic calculates expiration dynamically using:
 * Filter inventory by status (Fresh / Expiring Soon/ Expired)
 
 ## Tech Stack (Planned)
-* Backend: Python (Flask or FastAPI)
+* Backend: Python (FastAPI)
 * Database: PostgreSQL
 * Authentication: JWT or session-based auth
 * Deployment: TBD (render / Fly.io / AWS)
