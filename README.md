@@ -50,7 +50,7 @@ The core logic calculates expiration dynamically using:
 * Email notifications for expiring products
 * Admin-configurable category rules
 * Barcode lookup integration
-* Analytics dahsboard (usage trends, product turnover)
+* Analytics dashboard (usage trends, product turnover)
 * Frontend interface
 
 ## Why I Built This
