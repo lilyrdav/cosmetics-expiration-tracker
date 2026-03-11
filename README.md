@@ -11,7 +11,7 @@ Many cosmetics users own significantly more products than they can realistically
 * Wasted money from forgotten items
 * Cluttered collections with no visibility into expiration timelines
 
-Additionally, cosmetics products have different timelines once opened (e.g., mascara expires much faster than foundation and liquid/cream-based products expire faster than powder-based products), making manual tracking inconsistent and error-prone.
+Additionally, cosmetics products have different timelines once opened (e.g., liquid/cream-based products expire faster than powder-based products and products used around the eyes should be replaced more frquently), making manual tracking inconsistent and error-prone.
 
 ## Solution
 This application provides:
