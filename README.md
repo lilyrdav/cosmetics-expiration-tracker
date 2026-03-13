@@ -1,4 +1,4 @@
-# Cosmetics Inventory & Expiration Tracker
+# Cosmetics Inventory & Expiration Tracker V1
 
 ## Overview
 The Cosmetics Inventory & Expiration Tracker is a backend application that allows users to manage their personal cosmetic products and automatically track product expiration based on category-specific lifespan rules.
